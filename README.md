@@ -32,6 +32,7 @@ rm -rf
 git restore
 git commit --amend
 git reset (--mixed, --soft, --hard)
+git pull
 ```
 
 ## 🔍 Referências
