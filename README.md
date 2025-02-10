@@ -33,6 +33,9 @@ git restore
 git commit --amend
 git reset (--mixed, --soft, --hard)
 git pull
+git checkout
+git branch
+git merge
 ```
 
 ## 🔍 Referências
