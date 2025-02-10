@@ -12,9 +12,27 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso Versonionamento
 | Aulas | Resumos |
 |-------|---------|
 |Gravando Alterações no Repositório Local | [Resumos]()|
+|Desfazendo Alterações no Repositório Local| [Resumos]()|
 
 ```
+git status
 git init
+git commit -m
+git reflog
+git log
+mkdir
+touch
+echo
+cd
+.gitignore
+.gitkeep
+git add
+clear
+rm -rf
+git restore
+git commit --amend
+git reset (--mixed, --soft, --hard)
 ```
+
 ## 🔍 Referências
 - [Digital Innovation One](https://www.dio.me/)
