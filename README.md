@@ -9,10 +9,13 @@ Repositórios para armazenar resumos sobre Git e GitHub do curso Versonionamento
 
 ## 🖥 Resumo das Aulas
 
-| Aulas | Resumos |
-|-------|---------|
-|Gravando Alterações no Repositório Local | [Resumos]()|
-|Desfazendo Alterações no Repositório Local| [Resumos]()|
+| Aulas |
+|-------|
+|Criando e Clonando Repositórios|
+|Gravando Alterações no Repositório Local | 
+|Desfazendo Alterações no Repositório Local| 
+|Enviando e Baixando Alterações com o Repositório Remoto|
+|Trabalhando com Branches - Parte 1 e 2|
 
 ```
 git status
