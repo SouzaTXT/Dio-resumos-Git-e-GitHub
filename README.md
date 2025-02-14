@@ -39,6 +39,8 @@ git pull
 git checkout
 git branch
 git merge
+git fetch
+git diff
 ```
 
 ## 🔍 Referências
